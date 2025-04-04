@@ -1,0 +1,2 @@
+# IMPROVED-BRAIN-TUMOUR-SEGMENTATION-USING-YOLOV11-A-DEEP-LEARNING-APPROACH-FOR-MEDICAL-IMAGING
+This project employs YOLOv11 for brain tumor detection and segmentation on multi-modal MRI scans (T1, T2, FLAIR). Using a custom dataset (307 MRI slices), it enhances small tumor localization and segmentation accuracy. Performance is measured via IoU, Dice Score, Precision, and Recall, with a Streamlit-based visualization interface.
